@@ -1,4 +1,4 @@
-# House-Price-Prediction-Project
+# Real-Estate-Price-Prediction-Project
 Overview
 This project involves building a machine learning model to predict house prices based on various features such as location, size, and amenities. The dataset used for this project is from [source,the Boston Housing dataset]. The main goal is to provide accurate predictions to help potential buyers, real estate agents, and investors make informed decisions.
 
